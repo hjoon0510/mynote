@@ -36,17 +36,17 @@ continaully study....
     <tr>
         <td>수학</td>
         <td>85점</td>
-        <td>보통</td>
+        <td>og</td>
     </tr>
     <tr>
         <td>국어</td>
         <td>85점</td>
-        <td>보통</td>
+        <td>og</td>
     </tr>
        <tr>
         <td>영어</td>
         <td>100점</td>
-        <td></td>
+        <td>gd</td>
    </tr>
   </tbody>
 </table>
