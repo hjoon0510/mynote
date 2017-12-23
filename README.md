@@ -17,5 +17,9 @@ cd <heonjoon-address>
 
 continaully study....
  
+ 
+ 
+<img src=http://invain.mooo.com/~hjoon0510/HyunJun.jpg height="300" width="400"> </img>
+ 
  End of line. 
  
