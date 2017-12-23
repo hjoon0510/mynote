@@ -31,19 +31,23 @@ continaully study....
     <tr>
         <td>과목</td>
         <td>점수</td>
-    </tr>
+        <td>평 </td>
+    </tr>
     <tr>
         <td>수학</td>
         <td>85점</td>
-    </tr>
+        <td>보통</td>
+    </tr>
     <tr>
         <td>국어</td>
         <td>85점</td>
+        <td>보통</td>
     </tr>
        <tr>
         <td>영어</td>
         <td>100점</td>
-   </tr>
+        <td></td>
+   </tr>
   </tbody>
 </table>
  
