@@ -3,6 +3,8 @@
 
  note repository is created to memorize my study. 
  
+## How to write HTML
+* http://html5tutorial.github.io/docs/HTML_boilerplate.html
  
 ## how to write code in cosole
 
