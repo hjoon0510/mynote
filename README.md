@@ -40,7 +40,11 @@ continaully study....
         <td>국어</td>
         <td>85점</td>
     </tr>
-  </tbody>
+       <tr>
+        <td>영어</td>
+        <td>100점</td>
+   </tr>
+  </tbody>
 </table>
  
  End of line. 
