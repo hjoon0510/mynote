@@ -29,16 +29,16 @@ continaully study....
  <table>
   <tbody>
     <tr>
-        <td>...</td>
-        <td>...</td>
+        <td>과목</td>
+        <td>점수</td>
     </tr>
     <tr>
-        <td>...</td>
-        <td>...</td>
+        <td>수학</td>
+        <td>85점</td>
     </tr>
     <tr>
-        <td>...</td>
-        <td>...</td>
+        <td>국어</td>
+        <td>85점</td>
     </tr>
   </tbody>
 </table>
