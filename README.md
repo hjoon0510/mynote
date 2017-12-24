@@ -24,7 +24,7 @@ continaully study....
 <img src=http://invain.mooo.com/~hjoon0510/HyunJun.jpg height="300" width="400"> </img>
  
  
-<img src= http://imgnews.naver.net/image/022/2017/12/23/20171222003009_0_20171223170721247.jpg height="300" wigth="400"> </img>
+<img src=http://imgnews.naver.net/image/022/2017/12/23/20171222003009_0_20171223170721247.jpg height="300" wigth="400"> </img>
  
  
   <p>첫 번째 단락.</p>
