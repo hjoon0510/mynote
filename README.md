@@ -50,7 +50,7 @@ continaully study....
         <td>og</td>
     </tr>
        <tr>
-        <td>영어</td>
+        <td>영어</td> 
         <td>100점</td>
         <td>gd</td>
    </tr>
