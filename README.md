@@ -54,6 +54,11 @@ continaully study....
         <td>100점</td>
         <td>gd</td>
    </tr>
+ <tr>
+  <td>사회</td>
+  <td>60점</td>
+  <td>bd</td>
+ </tr>
   </tbody>
 </table
 
