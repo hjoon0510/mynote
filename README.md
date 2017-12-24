@@ -33,6 +33,11 @@ continaully study....
 
  <table>
  
+ <head> 
+    <meta charset="utf-8">
+    <title>Hello</title>
+ </head>
+ 
   <tbody>
     <tr>
         <td>과목</td>
@@ -55,13 +60,9 @@ continaully study....
         <td>gd</td>
    </tr>
   </tbody>
-</table>
- 
- 
- <head>
-  <meta charset="utf-8">
-  <title>Hello</title>
-</head>
- 
+</table
+
+
+
  End of line. 
  
