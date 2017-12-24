@@ -77,5 +77,21 @@ continaully study....
 <p>2 + 2 = 4</p>
 <h6>afwfafwaf</h6>
 
+
+<p>점식에 뭐 먹을까?</p>
+<ul>
+  <li>짜장면</li>
+  <li>탕수육</li>
+  <li>짬뽕</li>
+</ul>
+
+<p>좋아하는 음식 순서는?</p>
+<ol>
+  <li>탕수육</li>
+  <li>짜장면</li>
+  <li>짬뽕</li>
+</ol>
+
+
  End of line. 
  
