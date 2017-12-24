@@ -102,8 +102,6 @@ continaully study....
   이미지를 넣어보아요.
 </p>
 
-alt="Tim Berners-Lee 얼굴"
-
 
  End of line. 
  
