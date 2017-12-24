@@ -93,5 +93,15 @@ continaully study....
 </ol>
 
 
+<p>
+  문장 중간에
+  <img
+    src="http://www.w3.org/Press/Stock/Berners-Lee/2001-europaeum-eighth.jpg"
+    width="100" height="60"
+    alt="Tim Berners-Lee 얼굴">
+  이미지를 넣어보아요.
+</p>
+
+
  End of line. 
  
