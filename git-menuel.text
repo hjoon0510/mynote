@@ -1,0 +1,39 @@
+
+
+1. download files
+
+
+git clone
+https://github.com/hjoon0510/test.git
+
+
+cd <folder-name>
+
+
+ 
+
+
+ 
+
+
+2. edit 
+
+
+gedit <file-name>
+
+
+cat <file-name>
+
+
+ 
+
+
+3. backup (to github.com)
+
+
+git commit -a -s
+
+
+git push origin master
+
+
