@@ -7,9 +7,9 @@ https://github.com/hjoon0510/test.git <br>
 cd <folder-name> <br>
  
 ## edit 
-gedit <file-name>
-cat <file-name>
-ls 
+gedit < file-name >  <br>
+cat  < file-name > <br>
+ls  <br>
 
 ## backup (to github.com)
 git add <file-name>
