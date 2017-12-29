@@ -3,21 +3,22 @@ How to backup source code to github.com webstie
 ===================================================
 
 
-1. download files
+# download files
 git clone
 https://github.com/hjoon0510/test.git
 cd <folder-name>
  
-2. edit 
+# edit 
 gedit <file-name>
 cat <file-name>
+ls 
 
-
-3. backup (to github.com)
+# backup (to github.com)
 git add <file-name>
 git commit -a -s
 git pull
 git push origin master
-
+-your id: ****
+-your password: ****
 
 End of line. 
