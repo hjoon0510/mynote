@@ -1,7 +1,5 @@
 
 # How to backup source code to github.com webstie
-===================================================
-
 
 ## download files
 git clone
