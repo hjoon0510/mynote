@@ -12,14 +12,14 @@ cat  < file-name > <br>
 ls  <br>
 
 ## backup (to github.com)
-
+```
 git add <file-name>
 git commit -a -s
 git pull
 git push origin master
 -your id: ****
 -your password: ****
-
+```
 ## note
 
 End of line. 
