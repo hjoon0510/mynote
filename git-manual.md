@@ -2,9 +2,9 @@
 # How to backup source code to github.com webstie
 
 ## download files
-git clone
-https://github.com/hjoon0510/test.git
-cd <folder-name>
+git clone <br>
+https://github.com/hjoon0510/test.git <br>
+cd <folder-name> <br>
  
 ## edit 
 gedit <file-name>
