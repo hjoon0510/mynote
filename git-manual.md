@@ -7,9 +7,12 @@ https://github.com/hjoon0510/test.git <br>
 cd <folder-name> <br>
  
 ## edit 
-gedit < file-name >  <br>
-cat  < file-name > <br>
-ls  <br>
+```
+gedit < file-name >   
+cat  < file-name >  
+ls   
+```
+
 
 ## backup (to github.com)
 ```
@@ -21,5 +24,8 @@ git push origin master
 -your password: ****
 ```
 ## note
+- MD manual: https://guides.github.com/features/mastering-markdown/
+- MD manual: https://gist.github.com/ihoneymon/652be052a0727ad59601
+
 
 End of line. 
