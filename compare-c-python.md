@@ -7,7 +7,7 @@ Content | C | python
 -------- | --------------------------- | ------------------
 header   | #include <stdio.h>          |     import <function-name>
 variable | int/char/float a = 10       |   x=10
-input    | scanf()                     |     input() or int(input(문자열))
+input    | scanf()                     |     input() or int(input("String"))
 output   | printf()                    |     printf()
 function | int function-name()         |     def function-name:
 for      | for (i=1;i<n;i++)           |     for i in range(start data,end data,add or subtract):
