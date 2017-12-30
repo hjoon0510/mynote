@@ -1,14 +1,14 @@
 
+# Comparision between C and Python
 
-C                        python
---------------------------------------------------
+C | python
+------| ------------------
 
- #include <stdio.h>         import <function-name>
+ #include <stdio.h>    |     import <function-name>
 
- scanf()                    input()
+ scanf()        |            input()
 
- printf()                   printf()
+ printf()        |           printf()
 
- int
-function-name()        def function-name:
+ int function-name()    |    def function-name:
 
