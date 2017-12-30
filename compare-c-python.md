@@ -1,10 +1,10 @@
 
 # Comparision between C and Python
 
-C | python
------- | ------------------
-#include <stdio.h>   |     import <function-name>
-scanf()              |     input()
-printf()             |     printf()
-int function-name()  |     def function-name:
+Content | C | python
+--- | --- | ------------------
+header file | #include <stdio.h>   |     import <function-name>
+input | scanf()              |     input()
+output | printf()             |     printf()
+function | int function-name()  |     def function-name:
 
