@@ -2,7 +2,7 @@
 # Comparision between C and Python
 
 C | python
-------| ------------------
+------ | ------------------
 
  #include <stdio.h>    |     import <function-name>
 
