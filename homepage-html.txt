@@ -4,8 +4,8 @@
 ## Connect your account
 Run "Mobaxterm" Software
 Click "session" - select "ssh"
-type ip address ( 192.168.219.2 , invain.mooo.com)
-type your id: ***
+type remote host: ( 192.168.219.2 , invain.mooo.com)
+type your username(id): ***
 type your pass: ***
 
 ## got your homepage folder: public_html
