@@ -10,6 +10,7 @@ type your pass: ***
 
 ## got your homepage folder: public_html
 ls -l
+man ls
 cd public_html
 ls -l
 Find "index.html" file
