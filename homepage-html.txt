@@ -1,0 +1,19 @@
+
+Run "Mobaxterm" Software
+Click "session" - select "ssh"
+type ip address ( 192.168.219.2 , invain.mooo.com)
+type your id: ***
+type your pass: ***
+
+ls -l
+cd public_html
+ls -l
+Find "index.html" file
+
+nano index.html
+.... edit ...
+Press Ctrl+X
+http://invain.mooo.com/~<your-id>/ 
+
+
+End of line. 
