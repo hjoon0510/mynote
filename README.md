@@ -20,9 +20,8 @@ cd <heonjoon-address>
 continaully study....
  
  
- 
-<iframe src="https://calendar.google.com/calendar/embed?src=hjoon0510%40gmail.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
- 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hjoon0510%40gmail.com&amp;color=%2329527A&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
   <p>첫 번째 단락.</p>
   <p>두 번째 단락.</p>
 
