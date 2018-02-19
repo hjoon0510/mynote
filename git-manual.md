@@ -9,7 +9,7 @@ cd <folder-name>
 ```
 ## edit 
 ```
-nano < file-name >   
+nano < file-name >    ( or  vim < file-name > )
 cat  < file-name >  
 ls   
 ```
