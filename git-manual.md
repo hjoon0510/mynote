@@ -34,5 +34,4 @@ git push origin master
 - MD manual: https://guides.github.com/features/mastering-markdown/
 - MD manual: https://gist.github.com/ihoneymon/652be052a0727ad59601
 
-
-End of line. 
+ 
