@@ -7,7 +7,7 @@ Run "Mobaxterm" Software
 Click "session" - select "ssh"
 type remote host: ( 192.168.219.2 , invain.mooo.com)
 type your username(id): ***
-type your pass: ***
+type your password: ***
 ```
 
 ## got your homepage folder: public_html
@@ -21,7 +21,7 @@ Find "index.html" file
 
 ## Create html file for your home page
 ```bash
-nano index.html
+vi index.html
 .... edit ...
 Press Ctrl+X
 ```
