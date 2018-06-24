@@ -1,13 +1,14 @@
 # note
 
 
- note repository is created to memorize my study. 
+This **note** repository is created to memorize my study. 
  
-## How to write HTML
+## HTML 작성 참조 사이트:
 * http://html5tutorial.github.io/docs/HTML_boilerplate.html
  
-## how to write code in cosole
+## HTML 작성 예제:
 
+```bash
 run mobaxter 
 ssh id: hjoon0510
 ssh pass: *****
@@ -105,7 +106,7 @@ continaully study....
     alt="Tim Berners-Lee 얼굴">
   이미지를 넣어보아요.
 </p>
- 
+``` 
 
- End of line. 
+
  
