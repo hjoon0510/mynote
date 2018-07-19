@@ -22,7 +22,7 @@ ls
 
 ## backup (to github.com)
 ```bash
-git commit -a -s
+git commit -s (file name)
 git pull
 git push origin master
 -your id: ****
