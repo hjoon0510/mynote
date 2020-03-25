@@ -29,6 +29,10 @@ git push origin master
 -your password: ****
 ```
 
+## find 
+```bash
+grep -r
+```
 
 ## note
 - MD manual: https://guides.github.com/features/mastering-markdown/
