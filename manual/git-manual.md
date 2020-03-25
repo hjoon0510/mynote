@@ -31,7 +31,7 @@ git push origin master
 
 ## find 
 ```bash
-grep -r
+grep -r "찾는글자" .
 ```
 
 ## note
